@@ -1,0 +1,9 @@
+Copy and Paste those inside the FlaskTurial___ folder inside
+C:\Users\Asus\anaconda3\envs\FlaskTutorial\Lib\site-packages
+and open the Run file
+-----------------------------------------
+one of the method that I use is
+Open Pycharm
+Open the file location C:\Users\Asus\anaconda3\envs\FlaskTutorial\Lib\site-packages
+Open the terminal
+Write python run.py
